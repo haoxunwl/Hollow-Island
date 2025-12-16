@@ -8,3 +8,6 @@
 <img width="472" height="133" alt="屏幕截图 2025-12-16 224230" src="https://github.com/user-attachments/assets/e3873496-0c10-4d27-8ac3-c73f904f5334" />
 <img width="674" height="200" alt="屏幕截图 2025-12-16 224236" src="https://github.com/user-attachments/assets/a99d6959-5f00-4ef9-a9b4-f6345ca70a6b" />
 <img width="881" height="298" alt="屏幕截图 2025-12-16 224250" src="https://github.com/user-attachments/assets/cb6665a9-b202-40c1-9400-d0cdc4717bd6" />
+
+程序由浩讯亿通电脑店开发
+![b3bbe10fbe1fcb40dc7ecafcb4ef3fd6](https://github.com/user-attachments/assets/07b29bc3-3c79-4ec0-8dc8-ca6598e71dce)
